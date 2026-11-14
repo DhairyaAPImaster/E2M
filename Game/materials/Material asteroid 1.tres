@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://wmutvk42dhv7"]
+
+[ext_resource type="Texture2D" uid="uid://cmtfuafcafq2v" path="res://Texture/asteroid.jpg" id="1_simyi"]
+
+[resource]
+albedo_texture = ExtResource("1_simyi")

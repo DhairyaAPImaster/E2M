@@ -1,0 +1,6 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://bd6rv0874s7ot"]
+
+[ext_resource type="Texture2D" uid="uid://d2axusnhw065o" path="res://Texture/UFO texture.png" id="1_sdapl"]
+
+[resource]
+albedo_texture = ExtResource("1_sdapl")

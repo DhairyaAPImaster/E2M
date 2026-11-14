@@ -17,8 +17,5 @@ Itch Link --> https://dk1234567890.itch.io/e2m3
 <img width="1485" height="1078" alt="image" src="https://github.com/user-attachments/assets/e449b990-adc1-4c8e-aad4-d1362f6ce8a6" />
 
 
-<img width="1876" height="630" alt="image" src="https://github.com/user-attachments/assets/73037975-f5bc-477c-a71a-8a07688bfd22" />
-
-
 <img width="1876" height="630" alt="image" src="https://github.com/user-attachments/assets/626d0e03-ed89-4a56-abc9-2cb5f83fa95a" />
 
